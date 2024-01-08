@@ -1,0 +1,3 @@
+[submodule "account-service"]
+	path = account-service
+	url = C:\\Users\\HOUMAM\\IdeaProjects\\micro-services\\bank-account\\account-service
