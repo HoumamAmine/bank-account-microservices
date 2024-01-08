@@ -1,1 +1,1 @@
-# bank-account-microservices
+Cette application e-bank est construite sur une architecture microservices, utilisant le framework Spring pour le backend et Angular pour le frontend, afin de gérer les services bancaires de manière efficace
